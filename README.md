@@ -2,6 +2,10 @@
 
 This repository contains code to create an HTML form that sends data to a Google Sheet using Google Apps Script. This README provides a step-by-step guide to set up and deploy the solution.
 
+# Introduction
+
+The motive behind this repository is to provide a comprehensive, updated tutorial on how to submit HTML form data to a Google Sheet. While working on a task to achieve this, I found that many existing tutorials were outdated or incomplete, leading to numerous errors and confusion. To save others from the same challenges, I've documented the entire process, including solutions to common errors, in this README.
+
 ## Prerequisites
 
 1. A Google account.
