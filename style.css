@@ -1,0 +1,47 @@
+:root{
+primary-color: #63cea1
+secondary-color:  #FFC107
+
+}
+body{
+   
+    //background-image:url(pexels-ron-lach-10526880.jpg);
+    background-size: cover;
+
+}
+
+/* Navbar*/
+.header_wrapper .navbar{
+    
+    padding: 0.9375rem 0;
+    transition: all .2s linear;
+
+}
+navbarNav{
+    
+}
+home{
+    background-color: #97debd;
+    text-color:HEX:#2f2926;
+}
+.banner_wraper{
+    padding: 6.875rem;
+    z-index:1;
+    background-image:url(pexels-ron-lach-10526880.jpg);
+    background-position:top center;
+
+    
+}
+#programmer{
+    height: 300px;
+    width: 420px;
+}
+About{
+    width:100%;
+    margin:0 auto;
+    padding: 70px 0;
+    text-align:center;
+    
+
+
+}
